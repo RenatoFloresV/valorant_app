@@ -1,16 +1,6 @@
-# valorant_app_test
+# valorant_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2022-07-04-20-17-08-300_com example valorant_app_test](https://user-images.githubusercontent.com/68215023/177232302-c8dc496f-c350-48b1-9093-5a6442ba8b6a.jpg)
+![Screenshot_2022-07-04-20-17-21-260_com example valorant_app_test](https://user-images.githubusercontent.com/68215023/177232327-e9cf2b5c-0141-4137-adad-5416778e3a71.jpg)
+![Screenshot_2022-07-04-20-17-31-477_com example valorant_app_test](https://user-images.githubusercontent.com/68215023/177232332-2dbab102-e580-4c3f-ac6e-d4c3561e1774.jpg)
+![Screenshot_2022-07-04-20-17-45-960_com example valorant_app_test](https://user-images.githubusercontent.com/68215023/177232338-a1378687-a0b1-49e0-a6ed-5f3497d578d4.jpg)
