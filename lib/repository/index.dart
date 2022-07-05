@@ -5,7 +5,8 @@ String url = 'https://valorant-api.com/v1';
 class Services {
   Future<dynamic> getAgents() async {
     final response =
-        await http.get(Uri.parse('$url/agents?language=es-ES'), headers: {
+        //spanish language use "$url/agents?language=es-ES"
+        await http.get(Uri.parse('$url/agents'), headers: {
       'Content-Type': 'application/json',
       'data': ['data'].toString(),
     });

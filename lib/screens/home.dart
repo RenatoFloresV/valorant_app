@@ -62,7 +62,7 @@ class _HomeState extends State<Home> with AutomaticKeepAliveClientMixin {
                 Icons.person,
                 color: Color(0xFFFFFBF5),
               ),
-              label: 'Agentes',
+              label: 'Agents',
             ),
           ],
         ),
