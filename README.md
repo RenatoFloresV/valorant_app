@@ -13,6 +13,7 @@ Skills description
 <img src="https://user-images.githubusercontent.com/68215023/177454070-779d90b5-fb6e-4e3f-9e1e-e53689b44375.jpg" width="200px"</img>
 </div>
 
-
+<div>
 See screenshots:
 https://renatofloresv.github.io/valorant_app/
+</div>
