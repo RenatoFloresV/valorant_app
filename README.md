@@ -1,4 +1,4 @@
 # valorant_app
 
-See screenshots
+See screenshots:
 https://renatofloresv.github.io/valorant_app/
