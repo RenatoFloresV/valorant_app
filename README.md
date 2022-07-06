@@ -1,7 +1,7 @@
 # valorant_app
 
 
-- Roles  
+- Roles
 - Agents                     
 - Agent skills          
 - Skills description
